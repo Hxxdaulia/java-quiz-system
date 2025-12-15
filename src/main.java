@@ -1,8 +1,5 @@
 /* **************************************
 @author   Haad Arshad Aulia
-@SID      240341943
-@date     9 December 2025
-@version  2
 
 Level 8 Quiz Program – Procedural ADT Style
 QuestionRecord accessed only via ADT methods.
@@ -292,3 +289,4 @@ public class MyQuiz {
     } // END setUsed
 
 } // END class MyQuiz
+

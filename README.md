@@ -1,5 +1,3 @@
-This is a version you can paste straight into README.md and tweak if you want it shorter:
-
 Java Quiz Game with Question Records
 This repository contains Mini Project 8, a text‑based quiz game written in Java that uses an abstract data type (QuestionRecord) to manage questions, answers and usage flags. The program demonstrates procedural programming, console input/output, basic validation, file handling and simple game logic.
 

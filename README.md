@@ -60,4 +60,4 @@ Run the main class, for example:
 
 java Main
 
-Make sure any CSV files for question sets are in the same directory or update the file paths in the code accordingly.
+Make sure any CSV files for question sets are in the same directory
